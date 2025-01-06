@@ -2,6 +2,8 @@
 
 Сервер Teamcity, агент и nexus поднимал в докере. [Compose файл](teamcity-docker/compose.yml)
 
+## [Ссылка на репозиторий](https://github.com/gaidarvu/teamcity-netology/tree/master)
+
 Авторизованный Teamcity agent
 
 ![alt text](screens/image.png)
@@ -38,5 +40,3 @@
 ![alt text](<screens/build configuration 3.png>)
 ![alt text](<screens/build configuration 4.png>)
 ![alt text](<screens/build configuration 5.png>)
-
-## [Ссылка на репозиторий](https://github.com/gaidarvu/teamcity-netology/tree/master)
