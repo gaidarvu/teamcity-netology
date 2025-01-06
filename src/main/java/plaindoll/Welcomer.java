@@ -16,7 +16,7 @@ public class Welcomer {
     }
 
     public String saySome() {
-        return "Something in the way";
+        return "something in the way";
     }
     
     public String sayRandomHunterQuote() {
