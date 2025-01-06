@@ -12,7 +12,7 @@
 
 Сборка с версией 0.0.1 прошла успешно
 
-![alt text](screens/image-2.png)
+![alt text](<screens/build passed.png>)
 
 Так-же появилась в Nexus
 
