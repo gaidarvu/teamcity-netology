@@ -1,4 +1,5 @@
 target
 teamcity-docker/logs
 teamcity-docker/data
+teamcity-docker/agent
 teamcity-docker/nexus-data
