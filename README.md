@@ -33,10 +33,6 @@
 
 ![alt text](screens/image-6.png)
 
-У меня возникли сложности с миграцией build configuration в репозиторий. Конфигурация просто напросто не уезжала в репу. Не знаю насколько это разумно, выложил конфигурацию скринами:
+build configuration в репозитории
 
-![alt text](<screens/build configuration 1.png>)
-![alt text](<screens/build configuration 2.png>)
-![alt text](<screens/build configuration 3.png>)
-![alt text](<screens/build configuration 4.png>)
-![alt text](<screens/build configuration 5.png>)
+![alt text](screens/image777.png)
